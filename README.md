@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @brennodepaula
+- 👀 I’m interested in Data Science 
+- 🌱 I’m currently learning R, SQL, Python
+- 📫 How to reach me: linkedin.com/in/brennodepaula/
